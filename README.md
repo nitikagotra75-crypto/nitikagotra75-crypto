@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi , I'm Nitika 👋
+A first year CSE student passionate about prolem solving and web development.
 
-<!--
-**nitikagotra75-crypto/nitikagotra75-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 🌱Learning & Skills
+- **DSA**: Solving problem on platform like geeksforgeeks , and practicing algorithum and data structures.
+- **Web Develpment** : HTML,CSS and building interactive projects.
+-  ## Projects
+-  Responsive websites with HTML and CSS.
+-  ## Goals 
+  -Contribute to open source projects.
+  -Learn advanced web framework and improve algorithum skill.
+- ## 📫 Connection with me
+- email : nitikagotra75@gmail.com
+- linkdin : https://www.linkedin.com/in/nitika-gotra-42007b365
