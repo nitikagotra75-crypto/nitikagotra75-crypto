@@ -4,9 +4,9 @@ A first year CSE student passionate about prolem solving and web development.
 - ## 🌱Learning & Skills
 - **DSA**: Solving problem on platform like geeksforgeeks , and practicing algorithum and data structures.
 - **Web Develpment** : HTML,CSS and building interactive projects.
--  ## Projects
+-  ## 📃Projects
 -  Responsive websites with HTML and CSS.
--  ## Goals 
+-  ## 🔥Goals 
   -Contribute to open source projects.
   -Learn advanced web framework and improve algorithum skill.
 - ## 📫 Connection with me
