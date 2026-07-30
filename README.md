@@ -10,5 +10,4 @@ A first year CSE student passionate about prolem solving and web development.
   -Contribute to open source projects.
   -Learn advanced web framework and improve algorithum skill.
 - ## 📫 Connection with me
-- email : nitikagotra75@gmail.com
 - linkdin : https://www.linkedin.com/in/nitika-gotra-42007b365
