@@ -12,7 +12,7 @@
 
 - mostly living in C++, but building stuff in the JS/React world
 - currently messing around with Phaser 3 game mechanics
-- into AI tooling — routers, backends, little agents that do one thing well
+- into AI tooling routers, backends, little agents that do one thing well
 - CodeChef rating sitting at **1385**, slowly grinding it up
 
 <br>
@@ -22,7 +22,6 @@
 - 🎮 [**MoodRunner**](https://github.com/nitikagotra75-crypto/moodRunner-updated-version) — a 2D platformer that reads your mood off your webcam and reacts to it
 - 🔀 [**Signal AI Router**](https://github.com/nitikagotra75-crypto/Signal-AI-Router) — routes requests to the right AI model instead of hardcoding one
 - 🧩 [**Sierra**](https://github.com/nitikagotra75-crypto/Sierra-frontend) — an AI backend generator ([backend here](https://github.com/nitikagotra75-crypto/Sierra-backend))
-- 🌿 [**Emerald Run**](https://github.com/nitikagotra75-crypto) — a React + Vite + Phaser 3 platformer
 
 <br>
 
